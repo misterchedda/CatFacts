@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="CatFacts" Build_date="18-03-2025 15:39:17">
+  <Files>
+    <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive">
+      <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc">
+        <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod">
+          <file>C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod\catfact.archive.xl</file>
+          <file>C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod\CatFacts.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+    <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\r6">
+      <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\r6\scripts">
+        <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\r6\scripts\CatFacts">
+          <file>C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\r6\scripts\CatFacts\main.reds</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>

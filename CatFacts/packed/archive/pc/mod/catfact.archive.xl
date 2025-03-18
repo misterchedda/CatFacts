@@ -1,0 +1,6 @@
+localization:
+  onscreens:
+    en-us: misterchedda\catfacts\localization\en.json
+
+journal:
+  - misterchedda\catfacts\catfacts.journal
